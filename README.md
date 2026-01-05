@@ -1,7 +1,7 @@
 # Black Hole in W-Structure  
 Ontological Limit of Variability
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18155800.svg)](https://doi.org/10.5281/zenodo.18155800)
 
 **The Single Law**  
 The Universe is a **self-consistent informational structure**, in which **only those states and evolutions are possible and stable** that **do not generate contradictions** — neither locally nor globally (PAN condition).  
